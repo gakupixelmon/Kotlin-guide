@@ -1,5 +1,5 @@
 # Kotlin-guide
-English | 日本語 (ReADME.ja.md)
+English | 日本語 (README.ja.md)
 A Kotlin learning repository for beginners that progresses entirely through hands-on exercises, helping learners understand concepts by writing code from the start.
 
 ## Target
