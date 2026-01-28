@@ -4,7 +4,3 @@ A Kotlin learning repository for beginners that progresses entirely through hand
 
 ## Target
 -Begginers who want to learn Kotlin
-
-## How This Guide Works
-- This guide motivates you to learn Kotlin using interesting examples
-- You can deeply understand how to writing Kotlin code exercising at first
