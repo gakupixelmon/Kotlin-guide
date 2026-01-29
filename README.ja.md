@@ -5,3 +5,10 @@ English (README.md) | 日本語
 
 ## 対象者
 - 初めてKotlinを学ぶ人
+
+  Korlin-guide/  
+├─ setup.md  
+├─ 日本語問題  
+│　　　　└─変数・型.md  
+├─ README.ja.md  
+└─ README.md  
