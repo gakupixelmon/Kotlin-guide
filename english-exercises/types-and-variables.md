@@ -33,8 +33,10 @@ In programming, a function is a collection of instructions grouped together to p
 ```
 fun functionName(parameter1, parameter2, …) : ReturnType { }
 ```
+
 ② Every Kotlin program starts from a function named `main`.  
 The `main` function does not require parameters or a return value, so we write it as: ```main()```  
+  
 ③ The `print` function is used like this: ```print(something)```  
 If you want to display `"abc"`, then *something* should be `"abc"`.
 
