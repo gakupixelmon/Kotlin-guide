@@ -7,6 +7,8 @@ A Kotlin learning repository for beginners that progresses entirely through hand
 Korlin-guide/  
 ├─ setup.md  
 ├─ 日本語問題  
-│　　　　└─変数・型.md  
+|　　　　├─変数・型.md  
+|       ├─ 四則演算などの演算子.md
+|       └─ 制御構文.md
 ├─ README.ja.md  
 └─ README.md  
