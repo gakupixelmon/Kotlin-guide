@@ -12,7 +12,7 @@ English (README.md) | 日本語
 |　　　　├─変数・型.md  
 |　　　　├─ 四則演算などの演算子.md  
 |　　　　├─ 条件分岐.md  
-|　　　　├─ 繰り返し.md
+|　　　　├─ 繰り返し.md  
 |　　　　└─ 標準ライブラリ.md  
 ├─ README.ja.md  
 └─ README.md  
