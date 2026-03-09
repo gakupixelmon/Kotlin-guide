@@ -4,14 +4,24 @@ A Kotlin learning repository for beginners that progresses entirely through hand
 
 ## Target
 -Begginers who want to learn Kotlin  
-Korlin-guide/  
-├─ setup.md  
-├─ 日本語問題  
-|　　　　├─変数・型.md  
-|　　　　├─ 四則演算などの演算子.md  
-|　　　　├─ 条件分岐.md  
-|　　　　├─ 繰り返し.md  
-|　　　　├─ 関数.md
-|　　　　└─ 標準ライブラリ.md  
-├─ README.ja.md  
-└─ README.md  
+```
+  Korlin-guide/  
+├── english-exercises/  
+│  
+├── 日本語問題/  
+│　　├── 競技プログラミング対策/  
+│　　│　　└── 動的計画法.md  
+│　　│  
+│　　├── 四則演算などの演算子.md  
+│　　├── 型・変数.md  
+│　　├── 条件分岐.md  
+│　　├── 標準ライブラリ.md  
+│　　├── 繰り返し.md  
+│　　└── 関数.md  
+│  
+├── .gitignore  
+├── LICENSE  
+├── README.md  
+├── README.ja.md  
+└── setup.md  
+```
