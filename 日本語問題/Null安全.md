@@ -43,3 +43,26 @@ val length = name?.length ?: 0
 
 println("文字数は $length です") // 文字数は 0 です
 ```
+
+# 問題
+以下のコードを実行したとき、どのような結果になるか、あるいはエラーになるか答えてください。
+### 第1問：Null安全の基本
+```
+fun main() {
+    var text: String = "Kotlin"
+    // text = null // このコメントを外すとどうなりますか？
+    println(text)
+}
+```
+
+### 第2問: 安全呼び出しとエルビス演算子  
+```
+fun main() {
+    val score: Int? = null
+    // score が null なら -1 を返す
+    val finalScore = score ?: -1
+    println(finalScore)
+}
+```
+
+
