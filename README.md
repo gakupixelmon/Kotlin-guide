@@ -18,11 +18,11 @@ A Kotlin learning repository for beginners that progresses entirely through hand
 │　　├── 標準ライブラリ.md  
 │　　├── 繰り返し.md  
 │　　├── 関数.md
-│　　└── Null安全.md
+│　　├── Null安全.md
+│　　└── クラスとプロパティ.md
 │  
 ├── .gitignore  
 ├── LICENSE  
 ├── README.md  
 ├── README.ja.md  
 └── setup.md  
-```
