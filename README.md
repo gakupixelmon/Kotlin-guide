@@ -12,8 +12,8 @@ A Kotlin learning repository for beginners that progresses entirely through hand
 │　　├── 競技プログラミング対策/  
 │　　│　　└── 動的計画法.md  
 │　　│  
+│　　├── 型・変数.md
 │　　├── 四則演算などの演算子.md  
-│　　├── 型・変数.md  
 │　　├── 条件分岐.md  
 │　　├── 標準ライブラリ.md  
 │　　├── 繰り返し.md  
